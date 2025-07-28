@@ -17,4 +17,4 @@ print('Division: ',D)
 F=input('Enter your first name: ')
 L=input('enter your last name: ')
 A=( F + L )
-print('Hello, ',A + '| Wellcome t
+print('Hello, ',A + '| Wellcome to the Python progrem')
